@@ -42,6 +42,6 @@ docker stack deploy -c docker-compose.yml <your_stack>
 
 Get the newest docker binary package from [here](https://download.docker.com/linux/static/stable/)  
 
-Unzip and copy the file 'docker' to here  
+Unzip and copy the file 'docker' to current dir  
 
 Update the Dockerfile, replace the docker version in COPY command to your version
